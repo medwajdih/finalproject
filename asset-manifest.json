@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8d77c32b.js",
-    "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8d77c32b.js.map": "/static/js/main.8d77c32b.js.map",
-    "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/medwajdih/finalproject.git/static/css/main.073c9b0a.css",
+    "main.js": "/medwajdih/finalproject.git/static/js/main.3e471f47.js",
+    "static/js/787.bc7d429a.chunk.js": "/medwajdih/finalproject.git/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/medwajdih/finalproject.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/medwajdih/finalproject.git/index.html",
+    "main.073c9b0a.css.map": "/medwajdih/finalproject.git/static/css/main.073c9b0a.css.map",
+    "main.3e471f47.js.map": "/medwajdih/finalproject.git/static/js/main.3e471f47.js.map",
+    "787.bc7d429a.chunk.js.map": "/medwajdih/finalproject.git/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8d77c32b.js"
+    "static/js/main.3e471f47.js"
   ]
 }
